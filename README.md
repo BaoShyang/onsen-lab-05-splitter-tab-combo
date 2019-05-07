@@ -1,14 +1,3 @@
-# A Blank PhoneGap App
+# Onsen Lab 05 Splitter and Tabbar combo
 
-## Usage
-
-### PhoneGap CLI
-
-    $ phonegap create my-app --template blank
-
-### Desktop
-
-In your browser, open the file:
-
-    /www/index.html
-
+combines splitter, stack navigator and tab bar - done in Lab CL1
