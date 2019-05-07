@@ -21,26 +21,25 @@
      id="defs2">
     <linearGradient
        inkscape:collect="always"
-       id="linearGradient4524">
+       id="linearGradient834">
       <stop
-         style="stop-color:#00aad4;stop-opacity:1"
+         style="stop-color:#ff9955;stop-opacity:1;"
          offset="0"
-         id="stop4520" />
+         id="stop830" />
       <stop
-         style="stop-color:#80e5ff;stop-opacity:1"
+         style="stop-color:#ffccaa;stop-opacity:1"
          offset="1"
-         id="stop4522" />
+         id="stop832" />
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       xlink:href="#linearGradient4524"
-       id="linearGradient4526"
-       x1="100.22607"
-       y1="164.83521"
-       x2="99.825172"
-       y2="128.62019"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(0.99654367,0,0,0.99653869,0.28741069,0.57317999)" />
+       xlink:href="#linearGradient834"
+       id="linearGradient836"
+       x1="99.90535"
+       y1="164.16704"
+       x2="100.84079"
+       y2="128.80728"
+       gradientUnits="userSpaceOnUse" />
   </defs>
   <sodipodi:namedview
      id="base"
@@ -49,9 +48,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1"
-     inkscape:cx="442.46582"
-     inkscape:cy="556.89376"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="386.84193"
+     inkscape:cy="545.8878"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -78,41 +77,41 @@
      inkscape:groupmode="layer"
      id="layer1">
     <g
-       id="g841"
-       transform="matrix(0.99999036,0,0,0.9999861,8.0099112e-4,0.00229922)"
-       inkscape:export-filename="C:\PhoneGapProjects\04-Stack-Navigator\icon144.png"
+       id="g848"
+       transform="matrix(0.99999034,0,0,1,8.0300059e-4,-2.1412249e-6)"
+       inkscape:export-filename="C:\PhoneGapProjects\05-Splitter\icon144.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96">
       <rect
-         rx="5.9927793"
-         ry="5.8595772"
-         style="fill:url(#linearGradient4526);fill-opacity:1;stroke-width:0.07465661"
-         y="127.4966"
+         rx="5.9927216"
+         ry="5.8594956"
+         style="fill:url(#linearGradient836);fill-opacity:1;stroke-width:0.07465573"
+         y="127.49712"
          x="83.154762"
-         height="37.968124"
-         width="37.968311"
+         height="37.967598"
+         width="37.967945"
          id="rect3713" />
       <text
-         transform="scale(1.0000025,0.9999975)"
+         transform="scale(1.0000046,0.9999954)"
          id="text4530"
-         y="142.48775"
-         x="89.844986"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9933548px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.29983389"
+         y="143.34415"
+         x="86.740036"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75876808px;line-height:1.25;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.21896923"
          xml:space="preserve"><tspan
            id="tspan825"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9933548px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.29983389"
-           y="142.48775"
-           x="89.844986"
-           sodipodi:role="line">L-04</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75876808px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.21896923"
+           y="143.34415"
+           x="86.740036"
+           sodipodi:role="line">  L-05</tspan><tspan
            id="tspan829"
-           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:11.9933548px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.29983389"
-           y="157.47945"
-           x="89.844986"
-           sodipodi:role="line">nav</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.75876808px;font-family:Arial;-inkscape-font-specification:'Arial, Bold';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.21896923"
+           y="154.2926"
+           x="86.740036"
+           sodipodi:role="line">splitter</tspan></text>
       <path
-         id="path831"
+         id="path838"
          transform="scale(0.26458333)"
-         d="m 429.28516,528.23438 -23.57032,66.42773 H 345 l 19.57227,30.7168 h 70.5664 c 12.54803,0 22.64844,-9.87736 22.64844,-22.14649 v -38.30664 z"
+         d="M 410.82812,519.35742 403,541.01953 l -53,-1.5 -7.5,30 -11.57422,9.94141 31.86133,45.91797 h 72.34961 c 12.54791,0 22.65039,-9.87753 22.65039,-22.14649 v -13.18945 z"
          style="opacity:0.1;fill:#000000;stroke:#000000;stroke-width:0.99999994px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
          inkscape:connector-curvature="0" />
     </g>
