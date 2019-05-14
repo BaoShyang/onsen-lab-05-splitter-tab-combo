@@ -10,13 +10,14 @@
       </ons-toolbar-button>
     </div>
   </ons-toolbar>
-  <ons-tabbar swipeable position="top">
+  <ons-tabbar swipeable position="top" animation="slide">
     <ons-tab page="tab1.html" label="Tab 1" icon="md-calendar" active>
     </ons-tab>
     <ons-tab page="tab2.html" label="Tab 2" icon="md-alarm"> </ons-tab>
-    <ons-tab page="tab2.html">
+    <ons-tab page="tab3.html">
+      <input type="radio" style="display: none" />
       <button class="tabbar__button">
-        <div class="tabbar__icon" style="padding-bottom: 10px">
+        <div class="tabbar__icon" style="padding-bottom: 5px">
           <ons-icon icon="md-home"></ons-icon>
         </div>
         <div class="tabbar__label">My Label</div>

@@ -1,0 +1,39 @@
+<ons-page id="settings.html">
+  <ons-toolbar>
+    <div class="left">
+      <div class="left"><ons-back-button>Home</ons-back-button></div>
+    </div>
+    <div class="center" style="text-align: center">Settings Page</div>
+    <div class="right">
+      <ons-toolbar-button onclick="fn.open()">
+        <ons-icon icon="md-menu"></ons-icon>
+      </ons-toolbar-button>
+    </div>
+  </ons-toolbar>
+  <ons-tabbar swipeable position="top" animation="slide">
+    <ons-tab page="tab1.html" active>
+      <button class="tabbar__button">
+        <div class="tabbar__icon" style="padding-bottom: 10px">
+          <ons-icon icon="md-calendar"></ons-icon>
+        </div>
+        <div class="tabbar__label">Calendar</div>
+      </button>
+    </ons-tab>
+    <ons-tab page="tab2.html">
+      <button class="tabbar__button">
+        <div class="tabbar__icon" style="padding-bottom: 10px">
+          <ons-icon icon="md-alarm"></ons-icon>
+        </div>
+        <div class="tabbar__label">Alarm</div>
+      </button>
+    </ons-tab>
+    <ons-tab page="tab3.html">
+      <button class="tabbar__button">
+        <div class="tabbar__icon" style="padding-bottom: 10px">
+          <ons-icon icon="md-flash"></ons-icon>
+        </div>
+        <div class="tabbar__label">Flash</div>
+      </button>
+    </ons-tab>
+  </ons-tabbar>
+</ons-page>
