@@ -11,9 +11,17 @@ window.fn.open = function() {
 //   content.load(page).then(menu.close.bind(menu));
 // };
 
+document.addEventListener('init', function(event) {
+  var page = event.target;
+
+  if (page.id === 'settings.html') {
+    page.querySelector('ons-toolbar .center').innerHTML = page.data.title;
+  }
+});
+
 window.fn.load = function(page, mytitle) {
-  var content = document.getElementById('myNavigator');
+  var navigator = document.getElementById('myNavigator');
   var menu = document.getElementById('menu');
   data = { data: { title: mytitle }, animation: 'slide' };
-  content.pushPage(page, data).then(menu.close.bind(menu));
+  navigator.pushPage(page, data).then(menu.close.bind(menu));
 };

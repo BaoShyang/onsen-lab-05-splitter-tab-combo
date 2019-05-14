@@ -1,8 +1,8 @@
 <?xml version='1.0' encoding='utf-8'?>
 <widget id="lab.onsen.splitter" version="1.0.0" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
-    <name>Lab-05-Splitter</name>
+    <name>Lab-05-Splitter-Navigator-Tabbar-combo</name>
     <description>
-        Onsen splitter demo lab version
+        Onsen splitter, stack navigator and tab bar combo demo lab version
     </description>
     <author email="paulchin@hcu.edu.my" href="https://hcu.edu.my/">
         Han Chiang
